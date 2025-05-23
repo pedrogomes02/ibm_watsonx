@@ -1,7 +1,9 @@
 ## ibm_watsonx
 
 **Author:** pedrogomes02
+
 **Version:** 0.1.1
+
 **Type:** model
 
 ### Description
